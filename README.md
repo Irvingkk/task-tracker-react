@@ -4,8 +4,9 @@
 This is a simple app built by ReactJS and designed to help user manage daily tasks with features such as adding and deleting tasks, toggle the reminder option for each task.
 
 ## Screenshots
-<img src="screenshots/ShowAddTask.png" width="140" alt="ShowAddTask"/>  <img src="screenshots/HideAddTask.png" width="140" alt="HideAddTask"/>
-<img src="screenshots/NoTask.png" width="240" alt="NoTask"/>  <img src="screenshots/AboutPage.png" width="240" alt="AboutPage"/>
+<img alt="popularPage" src="/screenshots/ShowAddTask.png" height="400" />   <img alt="browser" src="/screenshots/HideAddTask.png" height="400"/>  
+<img alt="trendingPage" src="/screenshots/NoTask.png" height="400"/>   <img alt="trendingTimeSpan" src="/screenshots/AboutPage.png" height="400"/>  
+
 ## Get started
 #### Start mock JSON server
 - install the mock JSON server using command `npm install -g json-server`
