@@ -5,7 +5,7 @@ This is a simple app built by ReactJS and designed to help user manage daily tas
 
 ## Screenshots
 <img src="screenshots/ShowAddTask.png" width="240" alt="ShowAddTask"/>  <img src="screenshots/HideAddTask.png" width="240" alt="HideAddTask"/>  <img src="screenshots/NoTask.png" width="240" alt="NoTask"/>  <img src="screenshots/AboutPage.png" width="240" alt="AboutPage"/>
- <img src="screenshots/HideAddTask.png" width="240" alt="HideAddTask"/> <img src="screenshots/HideAddTask.png" width="240" alt="HideAddTask"/>
+ <img src="screenshots/HideAddTask.png" width="240" alt="HideAddTask"/> <img src="screenshots/HideAddTask.png" width="240" alt="HideAddTask"/><img src="screenshots/NoTask.png" width="240" alt="NoTask"/>
 ## Get started
 #### Start mock JSON server
 - install the mock JSON server using command `npm install -g json-server`
